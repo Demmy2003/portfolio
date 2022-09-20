@@ -1,0 +1,112 @@
+header {
+    text-align: center;
+    background-color:rgba(150, 228, 255, 1);
+    padding: 2vw;
+  }
+  h1 {
+    font-size: 3.5vw;
+  }
+  nav {
+    text-aling: center;
+    background-color: white;
+    padding: 0.1vw;
+    font-size: 1vw;
+  }
+  ul.begin{
+    display: flex;
+    float: items;
+    list-style-position: inside;
+    letter-spacing: 0.1vw;
+    margin-left: 21%;
+  }
+  li.begin:{
+    margin: 1vw;
+  }
+  a {
+    color: rgb(0, 0, 120);
+    color-hover: rgb(0, 0, 255);
+  }
+  img.hond {
+    width: 14vw;
+    height: 14vw;
+    float: left;
+    padding: 1vw;
+  }
+  .socialMedia {
+    border: 1px solid black;
+  }
+  td {
+    background-color: rgb(4000, 170, 5800); 
+  }
+  td.rij {
+    background-color: rgb(500000, 200 ,65000);
+    color: purple;
+  }
+  table {
+    width: 55vw;
+    table-layout: auto;
+  overflow: auto;
+   border-collapse: collapse;
+    float: right;
+    margin-right: 1vw;
+    font-size: 1vw;
+  }
+  th {
+    background-color: rgb(4000, 130, 5800);
+    color: purple;
+  }
+  th.rij {
+    background-color: rgb(4000, 160, 5800);
+  }
+  img.games {
+    float: right;
+    width: 15vw;
+    height: 9vw;
+    padding: 0,5vw;
+  }
+  img.games walk {
+  }
+  .hobbie {
+    margin-right: 47vw;
+    font-size: 1.1vw;
+  }
+  h2.hobby {
+    background-color: white;
+      padding: 0.8vw;
+    font-size: 1.6vw;
+    color: rgba(150, 0, 120, 60000);
+  }
+  section.hobby {
+    background-color: rgba(500, 160, 2000, 1);
+  padding: 1vw;
+  }
+  section.beach {
+    background-color: rgba(200, 130, 1600, 1);
+    padding: 1vw;
+  }
+  p.beach {
+    font-size: 1.1vw;
+  }
+  h4 {
+    font-size: 1.6vw;
+  }
+  h4.beach {
+    background-color: white;
+    padding: 0.8vw;
+    color: rgba(20, 0, 160, 80000);
+  }
+  header main {
+    font-family: "Times New Roman", Times, serif;
+  }
+  section.media {
+    background-color: rgba(150, 228, 255, 1);
+    padding: 1vw;
+  }
+  p.media {
+    margin-right: 58vw;
+    font-size: 1.1vw;
+  }
+  h4.media {
+    background-color: white;
+    padding: 0.5vw;
+  }
